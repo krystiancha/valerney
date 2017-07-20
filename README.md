@@ -1,7 +1,7 @@
 # valerney
 AVR RF remote emulator/spoofer
 
-This program shifts out programmed sequence of bytes on one pin without a clock at a fixed bitrate.
+This program shifts out a programmed sequence of bytes on one pin without a clock at a fixed bitrate.
 
 ## Building
 ```sh
